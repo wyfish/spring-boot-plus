@@ -29,7 +29,6 @@
 ## Quick Start
 #### 官网地址：[springboot.plus](http://springboot.plus "springboot.plus")
 #### GITHUB：[https://github.com/geekidea/spring-boot-plus](https://github.com/geekidea/spring-boot-plus "spring-boot-plus github")
-#### GITEE：[https://gitee.com/geekidea/spring-boot-plus](https://gitee.com/geekidea/spring-boot-plus "spring-boot-plus gitee")
 
 ### 主要特性
 1. 集成spring boot 常用开发组件集、公共配置、AOP日志等
@@ -69,11 +68,4 @@ reflections | 0.9.11 | 反射工具包 |
 hibernate-validator | 6.0.17.Final | 后台参数校验注解 |
 jwt | 0.9.1 | json web token |
 hutool-all | 4.5.10 | 常用工具集 |
-
-
-## spring-boot-plus QQ技术交流群
-![spring-boot-plus QQ技术交流群](https://raw.githubusercontent.com/geekidea/spring-boot-plus/master/docs/img/spring-boot-plus-qq-group.png)
-
-
-#### 官网地址：[springboot.plus](http://springboot.plus "springboot.plus")
 
